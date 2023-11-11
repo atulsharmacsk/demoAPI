@@ -1,0 +1,7 @@
+{
+  "book": [
+    { "id": 1, "title": "book 1", "category": "Drama"},
+    { "id": 2, "title": "book 2", "category": "Suspense"},
+    { "id": 3, "title": "book 3", "category": "comedy" }
+  ]
+}
