@@ -1,7 +1,7 @@
 {
   "book": [
-    { "id": 1, "title": "book 1", "category": "Drama"},
-    { "id": 2, "title": "book 2", "category": "Suspense"},
-    { "id": 3, "title": "book 3", "category": "comedy" }
+    { "id": 1, "title": "book 1", "category": "Drama", "price": 200},
+    { "id": 2, "title": "book 2", "category": "Suspense", "price":250},
+    { "id": 3, "title": "book 3", "category": "comedy", "price":300 }
   ]
 }
